@@ -1,6 +1,3 @@
-Claro, aquí tienes el contenido del archivo `README.md` en formato Markdown, diseñado para documentar tu proyecto en GitHub. Incluye instrucciones de configuración, uso y una descripción clara de la aplicación.
-
------
 
 # OCR y Resumen de PDF con FastAPI y Google Gemini
 
